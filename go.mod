@@ -1,4 +1,4 @@
-module webproxy
+module github.com/TBXark/webproxy
 
 go 1.24
 
